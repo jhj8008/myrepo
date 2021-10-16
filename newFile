@@ -5,3 +5,7 @@ Add(a, b) {
 multiply(a, b){
 	return a*b;
 }
+
+isprime(int a){
+	return "yes";
+}
