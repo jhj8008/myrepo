@@ -9,3 +9,7 @@ multiply(a, b){
 isprime(int a){
 	return "yes";
 }
+
+isequal(int a, int b){
+	return a == b;
+}
