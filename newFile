@@ -5,10 +5,7 @@ Add(a, b) {
 multiply(a, b){
 	return a*b;
 }
-<<<<<<< HEAD
 
 isprime(int a){
 	return "yes";
 }
-=======
->>>>>>> Multiply feature added - DONE
